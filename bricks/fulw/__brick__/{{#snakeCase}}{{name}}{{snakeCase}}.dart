@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class {{#pascalCase}}{{name}}{{/pascalCase}} extends StatefulWidget {
 	{{#pascalCase}}{{name}}{{/pascalCase}}({Key? key}) : super(key: key);
 
